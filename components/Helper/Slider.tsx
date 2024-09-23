@@ -37,9 +37,9 @@ const Slider = () => {
       className="z-[10]"
     >
         {/* slidercard */}
-        <SliderCard image="/image/r1.jpg" name="Jasica Doe" role="Web developer" />
-        <SliderCard image="/image/r2.jpg" name="John Doe" role="Nex js developer" />
-        <SliderCard image="/image/r3.jpg" name="Jonas Doe" role="mern developer" />
+        <SliderCard image="/images/r1.jpg" name="Jasica Doe" role="Web developer" />
+        <SliderCard image="/images/r2.jpg" name="John Doe" role="Nex js developer" />
+        <SliderCard image="/images/r3.jpg" name="Jonas Doe" role="mern developer" />
     </Carousel>
   );
 };
