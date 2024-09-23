@@ -11,7 +11,7 @@ const Feature = () => {
         <Tilt>
            <div    data-aos="zoom-in"
                 data-aos-anchor-placement="top-center">
-            <Image src="/image/f.png" alt="feature-png" width={1000} height={1000} />
+            <Image src="/images/f.png" alt="feature-png" width={1000} height={1000} />
            </div>
         </Tilt>
         {/* text content */}

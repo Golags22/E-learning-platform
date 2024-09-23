@@ -7,7 +7,7 @@ const Course = () => {
   return (
     <div className="pt-16 pb-12 relative bg-gray-200">
       <Image
-        src="/image/cb.png"
+        src="/images/cb.png"
         alt="image-bouncing"
         width={800}
         height={800}
